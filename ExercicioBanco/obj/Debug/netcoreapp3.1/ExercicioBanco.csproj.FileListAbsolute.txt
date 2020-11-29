@@ -1,0 +1,13 @@
+C:\Users\Emerson\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.exe
+C:\Users\Emerson\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.deps.json
+C:\Users\Emerson\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.runtimeconfig.json
+C:\Users\Emerson\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.runtimeconfig.dev.json
+C:\Users\Emerson\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.dll
+C:\Users\Emerson\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.pdb
+C:\Users\Emerson\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.csprojAssemblyReference.cache
+C:\Users\Emerson\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.AssemblyInfoInputs.cache
+C:\Users\Emerson\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.AssemblyInfo.cs
+C:\Users\Emerson\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\Emerson\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.dll
+C:\Users\Emerson\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.pdb
+C:\Users\Emerson\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.genruntimeconfig.cache
