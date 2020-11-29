@@ -8,26 +8,21 @@ namespace ExercicioBanco
     {
         public int NumeroConta { get; set; }
         public string Titular { get; set; }
-        public double Saldo { get; set; }
+        public double Saldo { get; private set; }
 
         public Conta(int numero, string titular, double saldo) {
             NumeroConta = numero;
             Titular = titular;
             Saldo = saldo;
         }
-        public Conta()
-        {
+        public Conta() { 
         }
 
-        public double AdicionarSaldo(double quantidade) {
-            Saldo += quantidade;
-            return Saldo;            
+        public void AdicionarSaldo(double quantidade) {
+            Saldo += quantidade;          
         }
-        public double RetirarSaldo(double quantidade) {
-            double taxa = 5.00;
-            Saldo -= quantidade;
-            Saldo -= taxa;
-            return Saldo;
+        public void RetirarSaldo(double quantidade) {
+            Saldo -= quantidade + 5.00;            
         }
         public override string ToString()
         {
